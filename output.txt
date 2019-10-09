@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Marking #0: StudentInfo(repo='assignment-1-Dawson2015', first='XIAOHUI', last='MEN', watiam='xmen', studentid=20848948, email='xmen@uwaterloo.ca')
+=======
+Marking #36: StudentInfo(repo='assignment-1-Dawson2015', first='XIAOHUI', last='MEN', watiam='xmen', studentid=20848948, email='xmen@uwaterloo.ca')
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 Mark = 0
 
 Running test 0:	 +20
@@ -15,7 +19,12 @@ b this is bad input
 Output:
 ----
 
+<<<<<<< HEAD
 Error: Incorrect input format
+=======
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -25,7 +34,11 @@ Error: Incorrect input format
 
 ----
 
+<<<<<<< HEAD
 Marks: +5	(25 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test02.in
@@ -38,7 +51,13 @@ a   "up and across st" (0,0)(10,10)
 
 Output:
 ----
+<<<<<<< HEAD
 Error: street currently exists.
+=======
+
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -48,7 +67,11 @@ Error: street currently exists.
 
 ----
 
+<<<<<<< HEAD
 Marks: +5	(30 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test03.in
@@ -61,7 +84,13 @@ c "down and across st" (0,10)(10,0)
 
 Output:
 ----
+<<<<<<< HEAD
 Error: 'c' or 'r' specified for a street that does not exist.
+=======
+
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -71,7 +100,11 @@ Error: 'c' or 'r' specified for a street that does not exist.
 
 ----
 
+<<<<<<< HEAD
 Marks: +5	(35 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test04.in
@@ -85,7 +118,12 @@ r "down and across st" (0,10) (10,0) )
 Output:
 ----
 
+<<<<<<< HEAD
 Error: Incorrect input format
+=======
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -95,7 +133,11 @@ Error: Incorrect input format
 
 ----
 
+<<<<<<< HEAD
 Marks: +5	(40 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test05.in
@@ -108,7 +150,12 @@ a   "up and across st" ( 0 , 0 )(10,10
 Output:
 ----
 
+<<<<<<< HEAD
 Error: Incorrect input format
+=======
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -118,7 +165,11 @@ Error: Incorrect input format
 
 ----
 
+<<<<<<< HEAD
 Marks: +5	(45 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test06.in
@@ -135,10 +186,16 @@ g
 
 Output:
 ----
+<<<<<<< HEAD
 V = {
 }
 E = {
 }
+=======
+
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -150,9 +207,16 @@ E = {
 }
 
 ----
+<<<<<<< HEAD
 Comparison result:	Equal
 
 Marks: +15	(60 total)
+=======
+Could not process answer:	Could not parse output
+Comparison result:	RHS is None
+
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test07.in
@@ -166,6 +230,7 @@ g
 
 Output:
 ----
+<<<<<<< HEAD
 V = {
 v5050 : (5.00,5.00)
 v0000 : (0.00,0.00)
@@ -179,6 +244,11 @@ E = {
 <v5050 , v00100>,
 <v5050 , v10000>,
 }
+=======
+
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -203,7 +273,11 @@ E = {
 Could not process answer:	Could not parse output
 Comparison result:	RHS is None
 
+<<<<<<< HEAD
 Marks: +0	(60 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test08.in
@@ -218,6 +292,7 @@ g
 
 Output:
 ----
+<<<<<<< HEAD
 V = {
 v320320 : (3.20,3.20)
 v2020 : (2.00,2.00)
@@ -246,6 +321,11 @@ E = {
 <v386714 , v364582>,
 <v423677 , v364582>,
 }
+=======
+
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -284,7 +364,11 @@ E = {
 Could not process answer:	Could not parse output
 Comparison result:	RHS is None
 
+<<<<<<< HEAD
 Marks: +0	(60 total)
+=======
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 --------------
 Running test: tests/test09.in
@@ -299,10 +383,16 @@ g
 
 Output:
 ----
+<<<<<<< HEAD
 V = {
 }
 E = {
 }
+=======
+
+Please input a command line:
+Enter 'q' to end the program.
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 ----
 
@@ -321,13 +411,25 @@ E = {
 }
 
 ----
+<<<<<<< HEAD
 Comparison result:	Different vertices
 
 Marks: +0	(60 total)
+=======
+Could not process answer:	Could not parse output
+Comparison result:	RHS is None
+
+Marks: +0	(20 total)
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
 
 
 --------------
 
 Finished marking
+<<<<<<< HEAD
 Total mark: 60 / 100
 Final mark: 60
+=======
+Total mark: 20 / 100
+Final mark: 20
+>>>>>>> fb9d45214a2f92ac63e39956d942158ebcf485bd
